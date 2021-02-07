@@ -5,3 +5,4 @@
 It will appear like this ![Console](https://github.com/khoilr/facebook-tools/blob/main/images/console.jpg?raw=true)
 ### Step 3: Open file RemoveAllFacebookGroupPost.js then copy all the code and paste to the console
 ### Step 4: Enter and wait until all posts are deleted
+If any problems occur, just press F5 and start over
