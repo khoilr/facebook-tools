@@ -1,5 +1,6 @@
 # facebook-tools
 ## Remove all posts in Facebook group
+This tool will remove a post every 5 seconds (or more :v) and avoid the post couldn't removed
 ### Step 1: Go to group that you want to remove posts (e.g: https://www.facebook.com/groups/1497144690497538/)
 ### Step 2: Press F12, then click 'Console' panel
 It will appear like this ![Console](https://github.com/khoilr/facebook-tools/blob/main/images/console.jpg?raw=true)
