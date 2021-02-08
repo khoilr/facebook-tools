@@ -31,3 +31,5 @@ It will appear like this
 ### Step 4: Enter and wait until all deactivated friends are removed
 
 ### If any problems occur, just press F5 and start over
+
+### There will be Oops box show up and stop scrolling, please contact me to fix it
