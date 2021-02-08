@@ -29,3 +29,5 @@ It will appear like this
 ### Step 3: Open file RemoveAllDeactivatedFriends.js then copy all the code and paste to the console
 
 ### Step 4: Enter and wait until all deactivated friends are removed
+
+### If any problems occur, just press F5 and start over
