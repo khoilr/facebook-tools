@@ -30,6 +30,8 @@ It will appear like this
 
 ### Step 4: Enter and wait until all deactivated friends are removed
 
+Note: keep tab in the view
+
 ### If any problems occur, just press F5 and start over
 
 ### If be Oops box is showed up and stop scrolling, please contact me to fix it
