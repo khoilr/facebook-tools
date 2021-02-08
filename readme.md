@@ -32,4 +32,4 @@ It will appear like this
 
 ### If any problems occur, just press F5 and start over
 
-### There will be Oops box show up and stop scrolling, please contact me to fix it
+### If be Oops box is showed up and stop scrolling, please contact me to fix it
